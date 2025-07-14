@@ -1,0 +1,6 @@
+@Tetsing_app_1_HostAddress = http://localhost:5177
+
+GET {{Tetsing_app_1_HostAddress}}/weather/
+Accept: application/json
+
+###

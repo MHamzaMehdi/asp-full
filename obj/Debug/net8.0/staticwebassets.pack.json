@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ORIC Project\\backend\\Tetsing app 1\\Tetsing app 1\\wwwroot\\Assets\\Logos\\cust_logo.png",
+      "PackagePath": "staticwebassets\\Assets\\Logos\\cust_logo.png"
+    },
+    {
+      "Id": "D:\\ORIC Project\\backend\\Tetsing app 1\\Tetsing app 1\\wwwroot\\profile_images\\12b1c4ec-d296-47e0-a7a6-23c35375973e_White-throated Kingfisher.avif",
+      "PackagePath": "staticwebassets\\profile_images\\12b1c4ec-d296-47e0-a7a6-23c35375973e_White-throated Kingfisher.avif"
+    },
+    {
+      "Id": "D:\\ORIC Project\\backend\\Tetsing app 1\\Tetsing app 1\\wwwroot\\profile_images\\82b1a28c-4019-4543-b848-f46bcae8ae76_Umair-276x300.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\82b1a28c-4019-4543-b848-f46bcae8ae76_Umair-276x300.jpg"
+    },
+    {
+      "Id": "D:\\ORIC Project\\backend\\Tetsing app 1\\Tetsing app 1\\wwwroot\\profile_images\\858b74d4-44be-4a29-9cac-70a707f13678_ewf.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\858b74d4-44be-4a29-9cac-70a707f13678_ewf.jpg"
+    },
+    {
+      "Id": "D:\\ORIC Project\\backend\\Tetsing app 1\\Tetsing app 1\\wwwroot\\profile_images\\884aefc9-367a-4691-b1b4-648618352443_Umair-276x300.jpg",
+      "PackagePath": "staticwebassets\\profile_images\\884aefc9-367a-4691-b1b4-648618352443_Umair-276x300.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tetsing app 1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Tetsing app 1.props",
+      "PackagePath": "build\\Tetsing app 1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Tetsing app 1.props",
+      "PackagePath": "buildMultiTargeting\\Tetsing app 1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Tetsing app 1.props",
+      "PackagePath": "buildTransitive\\Tetsing app 1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

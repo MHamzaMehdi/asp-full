@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Tetsing_app_1.Controllers.LoginApi",
+    "Method": "Login",
+    "RelativePath": "api/LoginApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Tetsing_app_1.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tetsing_app_1.Controllers.SignupApi",
+    "Method": "Signup",
+    "RelativePath": "api/SignupApi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Tetsing_app_1.Controllers.SignupRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

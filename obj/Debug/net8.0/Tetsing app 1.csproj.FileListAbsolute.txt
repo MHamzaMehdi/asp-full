@@ -1,0 +1,230 @@
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\appsettings.Development.json
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\appsettings.json
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.staticwebassets.endpoints.json
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.exe
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.deps.json
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.runtimeconfig.json
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.pdb
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.csproj.AssemblyReference.cache
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.AssemblyInfoInputs.cache
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.AssemblyInfo.cs
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.csproj.CoreCompileInputs.cache
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.MvcApplicationPartsAssemblyInfo.cs
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.MvcApplicationPartsAssemblyInfo.cache
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\scopedcss\bundle\Tetsing app 1.styles.css
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets\msbuild.Tetsing app 1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets\msbuild.Tetsing app 1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets\msbuild.build.Tetsing app 1.props
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tetsing app 1.props
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tetsing app 1.props
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing .9FB1AF97.Up2Date
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\refint\Tetsing app 1.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.pdb
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.genruntimeconfig.cache
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\ref\Tetsing app 1.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\MySql.Data.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Text.Json.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\ZstdSharp.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Coder\ASP .net\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\appsettings.Development.json
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\appsettings.json
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.exe
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.deps.json
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.runtimeconfig.json
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.pdb
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Google.Protobuf.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\MySql.Data.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Text.Json.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\ZstdSharp.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.csproj.AssemblyReference.cache
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.AssemblyInfoInputs.cache
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.AssemblyInfo.cs
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.csproj.CoreCompileInputs.cache
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.MvcApplicationPartsAssemblyInfo.cs
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.MvcApplicationPartsAssemblyInfo.cache
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.sourcelink.json
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets.build.json
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets.development.json
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets\msbuild.Tetsing app 1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets\msbuild.build.Tetsing app 1.props
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tetsing app 1.props
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tetsing app 1.props
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\scopedcss\bundle\Tetsing app 1.styles.css
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.csproj.CopyComplete
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\refint\Tetsing app 1.dll
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.pdb
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.genruntimeconfig.cache
+D:\FYP\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\ref\Tetsing app 1.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\appsettings.Development.json
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\appsettings.json
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.exe
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.deps.json
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.runtimeconfig.json
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.pdb
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Google.Protobuf.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\MySql.Data.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Text.Json.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\ZstdSharp.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.csproj.AssemblyReference.cache
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.AssemblyInfoInputs.cache
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.AssemblyInfo.cs
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.csproj.CoreCompileInputs.cache
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.MvcApplicationPartsAssemblyInfo.cs
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.MvcApplicationPartsAssemblyInfo.cache
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets.build.json
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets.development.json
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets\msbuild.Tetsing app 1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets\msbuild.build.Tetsing app 1.props
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tetsing app 1.props
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tetsing app 1.props
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\scopedcss\bundle\Tetsing app 1.styles.css
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.csproj.CopyComplete
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\refint\Tetsing app 1.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.pdb
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.genruntimeconfig.cache
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\ref\Tetsing app 1.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\obj\Debug\net8.0\Tetsing app 1.sourcelink.json
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Dapper.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\DinkToPdf.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\LatoFont\OFL.txt
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\QuestPDF.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\linux-arm64\native\libcrypto.so
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\linux-arm64\native\libjpeg.so.8
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\linux-arm64\native\libqpdf.so
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libcrypto.so
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libjpeg.so.8
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libqpdf.so
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\linux-x64\native\libcrypto.so
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\linux-x64\native\libjpeg.so.8
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\linux-x64\native\libqpdf.so
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\osx-arm64\native\libcrypto.dylib
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\osx-arm64\native\libjpeg.dylib
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\osx-arm64\native\libqpdf.dylib
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\osx-x64\native\libcrypto.dylib
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\osx-x64\native\libjpeg.dylib
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\osx-x64\native\libqpdf.dylib
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\libstdc++-6.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\libwinpthread-1.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x64\native\qpdf.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x86\native\libstdc++-6.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x86\native\libwinpthread-1.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\runtimes\win-x86\native\qpdf.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ORIC Project\backend\Tetsing app 1\Tetsing app 1\bin\Debug\net8.0\Tetsing app 1.staticwebassets.runtime.json

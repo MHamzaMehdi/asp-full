@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tetsing app 1.props" />
+</Project>
